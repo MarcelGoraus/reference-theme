@@ -892,6 +892,11 @@
         "padding_bottom": 50
       }
     },
+    "product_recommendations_Jcq3ca": {
+      "type": "product-recommendations",
+      "settings": {
+      }
+    },
     "custom_section_AhiUGN": {
       "type": "custom-section",
       "blocks": {
@@ -1056,6 +1061,7 @@
     "image_banner_raFT6p",
     "65a25908-415f-40aa-a6d4-00985cafbfac",
     "ab87991f-c605-4094-97f2-7d0789e4a8e6",
+    "product_recommendations_Jcq3ca",
     "custom_section_AhiUGN"
   ]
 }
