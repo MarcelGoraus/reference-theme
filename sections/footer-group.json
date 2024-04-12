@@ -113,101 +113,59 @@
             "padding": 16
           },
           "blocks": {
-            "group_reBQFj": {
+            "group_fD3icf": {
               "type": "group",
               "settings": {
-                "direction": "column",
+                "direction": "row",
                 "justify_content": "flex-start",
-                "color_scheme": "scheme-3",
-                "width": 40,
+                "color_scheme": "",
+                "width": 100,
                 "padding": 16
               },
               "blocks": {
-                "heading_F6mpHV": {
-                  "type": "heading",
+                "group_VFtzQm": {
+                  "type": "group",
                   "settings": {
-                    "heading": "Get to know us",
-                    "heading_size": "h3",
-                    "alignment": "start"
-                  }
-                },
-                "link_AJyYJ4": {
-                  "type": "link",
-                  "settings": {
-                    "link": "",
-                    "label": "Button label",
-                    "style_class": "link",
-                    "open_in_new_tab": false,
-                    "icon": "arrow",
-                    "icon_position": "right"
-                  }
-                },
-                "link_BGUyPc": {
-                  "type": "link",
-                  "settings": {
-                    "link": "",
-                    "label": "Button label",
-                    "style_class": "link",
-                    "open_in_new_tab": false,
-                    "icon": "arrow",
-                    "icon_position": "right"
-                  }
+                    "direction": "column",
+                    "justify_content": "flex-start",
+                    "color_scheme": "",
+                    "width": 100,
+                    "padding": 16
+                  },
+                  "blocks": {
+                    "heading_WGQpAK": {
+                      "type": "heading",
+                      "settings": {
+                        "heading": "Links",
+                        "heading_size": "h3",
+                        "alignment": "start"
+                      }
+                    },
+                    "link_mRBbiC": {
+                      "type": "link",
+                      "settings": {
+                        "link": "",
+                        "label": "Impressum",
+                        "style_class": "link",
+                        "open_in_new_tab": false,
+                        "icon": "none",
+                        "icon_position": "left"
+                      }
+                    }
+                  },
+                  "block_order": [
+                    "heading_WGQpAK",
+                    "link_mRBbiC"
+                  ]
                 }
               },
               "block_order": [
-                "heading_F6mpHV",
-                "link_AJyYJ4",
-                "link_BGUyPc"
-              ]
-            },
-            "separator_block_jAUr7a": {
-              "type": "separator-block",
-              "settings": {
-                "direction": "vertical",
-                "color": "#d4d4d4",
-                "size": 100,
-                "margin": 0,
-                "thickness": "1",
-                "style_class": "solid"
-              }
-            },
-            "group_XWypQL": {
-              "type": "group",
-              "settings": {
-                "direction": "column",
-                "justify_content": "flex-start",
-                "color_scheme": "scheme-3",
-                "width": 50,
-                "padding": 16
-              },
-              "blocks": {
-                "heading_aGWxfA": {
-                  "type": "heading",
-                  "settings": {
-                    "heading": "Our mission",
-                    "heading_size": "h3",
-                    "alignment": "start"
-                  }
-                },
-                "text_mWDYXd": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-                    "text_style": "",
-                    "alignment": "start"
-                  }
-                }
-              },
-              "block_order": [
-                "heading_aGWxfA",
-                "text_mWDYXd"
+                "group_VFtzQm"
               ]
             }
           },
           "block_order": [
-            "group_reBQFj",
-            "separator_block_jAUr7a",
-            "group_XWypQL"
+            "group_fD3icf"
           ]
         },
         "8a18b664-2c69-4e8a-b6ae-a5cf39d3ad38": {
