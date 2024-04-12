@@ -50,13 +50,34 @@
                 "icon": "none",
                 "icon_position": "left"
               }
+            },
+            "slide_fQzdqd": {
+              "type": "slide",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/person-fishing-on-the-beach-is-silhouetted-at-sunset.jpg",
+                "background": "#000000"
+              },
+              "blocks": {
+                "text_LVA467": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>This is a slide!<\/p>",
+                    "text_style": "text-block--caption",
+                    "alignment": "center"
+                  }
+                }
+              },
+              "block_order": [
+                "text_LVA467"
+              ]
             }
           },
           "block_order": [
             "a472dc2a-4c3b-41a8-8cec-3bd05ab1b009",
             "c5ad2ddb-b92c-4478-9b6d-db611df876d2",
             "link_WxJjHx",
-            "0f15950c-52b8-437c-ab09-a30df142726a"
+            "0f15950c-52b8-437c-ab09-a30df142726a",
+            "slide_fQzdqd"
           ]
         }
       },
