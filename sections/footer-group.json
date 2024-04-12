@@ -118,7 +118,7 @@
               "settings": {
                 "direction": "row",
                 "justify_content": "flex-start",
-                "color_scheme": "",
+                "color_scheme": "scheme-4",
                 "width": 100,
                 "padding": 16
               },
@@ -128,7 +128,7 @@
                   "settings": {
                     "direction": "column",
                     "justify_content": "flex-start",
-                    "color_scheme": "",
+                    "color_scheme": "scheme-4",
                     "width": 100,
                     "padding": 16
                   },
