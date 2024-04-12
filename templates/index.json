@@ -111,7 +111,7 @@
                 "product_card_4ca9BC": {
                   "type": "product-card",
                   "settings": {
-                    "product": "",
+                    "product": "the-complete-snowboard",
                     "width": 100,
                     "ratio": "1"
                   }
@@ -142,7 +142,7 @@
                 "product_card_rRfphj": {
                   "type": "product-card",
                   "settings": {
-                    "product": "",
+                    "product": "the-hidden-snowboard",
                     "width": 100,
                     "ratio": "auto"
                   }
@@ -231,7 +231,7 @@
         "product_card_zftUcQ": {
           "type": "product-card",
           "settings": {
-            "product": "",
+            "product": "the-collection-snowboard-hydrogen",
             "width": 23,
             "ratio": "auto"
           }
@@ -239,7 +239,7 @@
         "product_card_B9nUwN": {
           "type": "product-card",
           "settings": {
-            "product": "",
+            "product": "the-3p-fulfilled-snowboard",
             "width": 23,
             "ratio": "auto"
           }
@@ -596,7 +596,7 @@
         "99707de7-6c76-4453-81c8-b1cedc3d7941": {
           "type": "product-medias",
           "settings": {
-            "product": "{{ section.settings.product }}",
+            "product": "the-multi-location-snowboard",
             "direction": "row",
             "width": 50,
             "media_featured": true
@@ -681,7 +681,7 @@
         "e403f28c-3037-4e33-8fa3-83e904caeece"
       ],
       "settings": {
-        "product": "",
+        "product": "the-3p-fulfilled-snowboard",
         "direction": "row",
         "justify_content": "flex-start",
         "color_scheme": "",
