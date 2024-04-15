@@ -5,6 +5,44 @@
     "f3655535-32dc-4b1a-8f58-041cd0dce0ec": {
       "type": "custom-section",
       "blocks": {
+        "group_3fJckD": {
+          "type": "group",
+          "settings": {
+            "direction": "column",
+            "justify_content": "center",
+            "color_scheme": "scheme-3",
+            "width": 100,
+            "padding": 16
+          },
+          "blocks": {
+            "heading_QTKARb": {
+              "type": "heading",
+              "settings": {
+                "heading": "Subscribe to our newsletter",
+                "heading_size": "h2",
+                "alignment": "start"
+              }
+            },
+            "text_6gwNe6": {
+              "type": "text",
+              "settings": {
+                "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>",
+                "text_style": "",
+                "alignment": "center"
+              }
+            },
+            "newsletter_VLwG9a": {
+              "type": "newsletter",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "heading_QTKARb",
+            "text_6gwNe6",
+            "newsletter_VLwG9a"
+          ]
+        },
         "5b635cb0-c1b4-408f-a776-d6977e4ff9d4": {
           "type": "group",
           "settings": {
@@ -238,6 +276,7 @@
         }
       },
       "block_order": [
+        "group_3fJckD",
         "5b635cb0-c1b4-408f-a776-d6977e4ff9d4",
         "group_VFkXXa",
         "8a18b664-2c69-4e8a-b6ae-a5cf39d3ad38"
